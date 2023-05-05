@@ -1,10 +1,12 @@
+
 ## Olá mundo! Tudo bom? 
+
 
 🌟 Bem-vindo(a) ao meu perfil! 🌟
 <br>
 Sou uma estudante em busca do constante ganho de XP. 
 
-
+<br>
 
 #### <img height="30" src="https://user-images.githubusercontent.com/119058582/236337965-0ab42422-e599-4e56-a7eb-a3372fa6815c.gif"/> Skills | Code with
 <div style="dispaly=in-line block">
