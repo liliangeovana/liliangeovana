@@ -12,8 +12,8 @@
   Apaixonada por tecnologia, sou uma estudante em busca do ganho de XP.
 </p>
 
-
 <hr>
+
 
 ### 📌 Skills | Code with
 <div style="dispaly=in-line block">
@@ -29,6 +29,15 @@
    <div style="dispaly=in-line block">
      <p> <img align="center" alt="JAVA" height="" width="" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"></p>
     </div>
+
+
+###### 🌐 Conecte-se comigo: 
+
+[<img src="https://github.com/liliangeovana/liliangeovana/assets/119058582/4bc8b9cf-7de5-48f4-8ce4-1eb5aec82305" alt="LinkedIn" width="25" height="25">](https://www.linkedin.com/in/l%C3%ADlian-saraiva-766b23243/) 
+
+
+
+
 
 
 
