@@ -28,7 +28,7 @@
 <hr>
 
 <!--ESTUDOS ATUAIS-->   
-#### <img align="center" alt="cute-gif" height="30"  src="https://user-images.githubusercontent.com/119058582/236561127-7287a52a-d839-4c45-be81-4a75e1c64ea0.gif"> XP EM DESENVOLVIMENTO 
+#### <img align="center" alt="cute-gif" height="30" src="https://user-images.githubusercontent.com/119058582/236561127-7287a52a-d839-4c45-be81-4a75e1c64ea0.gif"> XP EM DESENVOLVIMENTO 
 <div style="dispaly=in-line block">
      <p> 
       <img align="center" alt="JAVA" height="" width="" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
