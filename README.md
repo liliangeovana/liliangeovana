@@ -33,7 +33,7 @@
 
 ###### 🌐 Conecte-se comigo: 
 
-[<img src="https://github.com/liliangeovana/liliangeovana/assets/119058582/4bc8b9cf-7de5-48f4-8ce4-1eb5aec82305" alt="LinkedIn" width="25" height="25">](https://www.linkedin.com/in/l%C3%ADlian-saraiva-766b23243/) 
+[<img src="https://github.com/liliangeovana/liliangeovana/assets/119058582/4bc8b9cf-7de5-48f4-8ce4-1eb5aec82305" alt="LinkedIn" width="20" height="20">](https://www.linkedin.com/in/l%C3%ADlian-saraiva-766b23243/) 
 
 
 
