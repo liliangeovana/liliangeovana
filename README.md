@@ -36,7 +36,7 @@
 
 <!-- SOCIAL MEDIA -->
 ##### 🌐 Conecte-se comigo: 
-[<img src="https://github.com/liliangeovana/liliangeovana/assets/119058582/4bc8b9cf-7de5-48f4-8ce4-1eb5aec82305" alt="LinkedIn" width="20" height="20">](https://www.linkedin.com/in/lílian-saraiva-766b23243) ![DIO Badge](https://img.shields.io/badge/DIO-8A2BE2?link=https%3A%2F%2Fwww.dio.me%2Fusers%2Flili_ggsb)
+[![Linkedin](https://img.shields.io/badge/LINKEDIN-0a66c2)](https://www.linkedin.com/in/l%C3%ADlian-saraiva-766b23243/) [![DIO Badge](https://img.shields.io/badge/DIO-8A2BE2?link=https%3A%2F%2Fwww.dio.me%2Fusers%2Flili_ggsb)](https://www.dio.me/users/lili_ggsb)
 
 
 
