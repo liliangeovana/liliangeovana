@@ -1,7 +1,7 @@
 <hr>
 
 <!-- GIF ANIMADO G -->
-<img align="right" alt="cute-gif" height="150" width="150" src="https://user-images.githubusercontent.com/119058582/236551755-2135f801-0843-4dc2-b1a7-ce17220be18a.gif">
+<img align="right" alt="cute-gif" height="150" width="150" src="https://github.com/liliangeovana/liliangeovana/assets/119058582/c40a6407-02fd-41c1-b272-c73b2617fd79">
 
 <!--- TÍTULO --->
 ## <p align="center">Hello World!</p>
@@ -37,7 +37,6 @@
 <!-- SOCIAL MEDIA -->
 ##### 🌐 Conecte-se comigo: 
 [![Linkedin](https://img.shields.io/badge/LINKEDIN-0a66c2)](https://www.linkedin.com/in/l%C3%ADlian-saraiva-766b23243/) [![DIO Badge](https://img.shields.io/badge/DIO-8A2BE2?link=https%3A%2F%2Fwww.dio.me%2Fusers%2Flili_ggsb)](https://www.dio.me/users/lili_ggsb)
-
 
 
 
