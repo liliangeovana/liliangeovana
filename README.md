@@ -24,7 +24,6 @@
 <div style="dispaly=in-line block">
   <img align="center" alt="HTML" height="" width="" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
   <img align="center" alt="CSS" height="" width="" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
-  <img align="center" alt="JS" height="" width="" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
   <img align="center" alt="SQL" height="" width="" src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white">
 </div>
 
@@ -34,7 +33,9 @@
 <h4>🚀 XP EM DESENVOLVIMENTO</h4> 
 <div style="dispaly=in-line block">
      <p> 
-      <img align="center" alt="JAVA" height="" width="" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
+      <img align="center" alt="JS" height="" width="" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
+      <img align="center" alt="ExpressJS" height="" width="" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB">
+      <img align="center" alt="MongoDB" height="" width="" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white">
      </p>
 </div>
 
