@@ -17,7 +17,6 @@
 </div>
 <!-- FIM DIV TÍTULO E SUBTÍTULO -->
 
-<hr>
 
 <!--- TAGS DE SKILL-->
 <h3>📌 Skills | Code with</h3>
