@@ -41,8 +41,7 @@
 <!-- SOCIAL MEDIA -->
 <h5>🌐 Conecte-se comigo:</h5> 
 
-[![Linkedin](https://img.shields.io/badge/LINKEDIN-0a66c2)](https://www.linkedin.com/in/l%C3%ADlian-saraiva-766b23243/) [![DIO Badge](https://img.shields.io/badge/DIO-8A2BE2?link=https%3A%2F%2Fwww.dio.me%2Fusers%2Flili_ggsb)](https://www.dio.me/users/lili_ggsb)
-
+[![Linkedin](https://img.shields.io/badge/LINKEDIN-0a66c2)](https://www.linkedin.com/in/l%C3%ADlian-saraiva-766b23243/)
 
 
 
