@@ -20,11 +20,9 @@
 <!--- TAGS DE SKILL-->
 <h3>📌 Skills | Code with</h3>
 <div style="dispaly=in-line block">
-  <img align="center" alt="HTML" height="" width="" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
-  <img align="center" alt="CSS" height="" width="" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
   <img align="center" alt="TAILWIND" height="" width="" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
   <img align="center" alt="JS" height="" width="" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
- <img align="center" alt="NODE" height="" width="" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
+  <img align="center" alt="VUE" height="" width="" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D">
 </div>
 
 <hr>
@@ -34,7 +32,6 @@
 <div style="dispaly=in-line block">
      <p>
        <img align="center" alt="TS" height="" width="" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
-       <img align="center" alt="VUE" height="" width="" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D">
      </p>
 </div>
 
